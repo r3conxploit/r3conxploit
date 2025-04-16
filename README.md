@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">r3conxploit</h1>
+<p align="center"><code>Silently watching. Always reconning.</code></p>
 
-<!--
-**r3conxploit/r3conxploit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/r3conxploit/r3conxploit/main/logo.gif" width="300">
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 OSINT Specialist | 🛡️ Ethical Hacker | 🎯 Reconnaissance Expert
+
+- 🔭 Currently hunting digital footprints
+- 🧠 Building custom recon tools
+- ☠️ Passionate in stealth enumeration & metadata tracking
+
+📬 Contact me securely:
+- 📧 Email: r3conxploit@protonmail.com
+- 🔑 PGP: `3EBD 134C 1C26 6D30 71D2  B743 08A5 47B8 9985 549C`
+
+---
