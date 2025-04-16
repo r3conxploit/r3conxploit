@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm <span style="color:#00FF00;">r3conxploit</span> 👾</h1>
 
 <p align="center">
-  <img src="https://your-link-to-animated-terminal.gif" alt="r3conxploit animated logo">
+ 
 </p>
 
 <h3 align="center"><i>🕶️ Silently watching. Always reconning.</i></h3>
