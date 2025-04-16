@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="filter: invert(100%)"/>
 </p>
-<code>                      ██████╗ ██████╗  ██████╗ ██████╗ ███╗   ██╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗                  
+<pre>                       ██████╗ ██████╗  ██████╗ ██████╗ ███╗   ██╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗                  
                        ██╔══██╗╚════██╗██╔════╝██╔═══██╗████╗  ██║╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝                  
                        ██████╔╝ █████╔╝██║     ██║   ██║██╔██╗ ██║ ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║                     
                        ██╔══██╗ ╚═══██╗██║     ██║   ██║██║╚██╗██║ ██╔██╗ ██╔═══╝ ██║     ██║   ██║██║   ██║                     
                        ██║  ██║██████╔╝╚██████╗╚██████╔╝██║ ╚████║██╔╝ ██╗██║     ███████╗╚██████╔╝██║   ██║                     
                        ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝                    
-</code>  
+</pre>  
 
 <div align="center">
   
@@ -65,5 +65,6 @@
   <code>~ r3conxploit</code>
 </p>
 
----
+[![ProtonMail](https://img.shields.io/badge/email-r3conxploit@protonmail.com-8c00ff?style=flat-square&logo=protonmail)](mailto:r3conxploit@protonmail.com)
+
                     
