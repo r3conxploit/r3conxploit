@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/recon-in_progress-7f00ff?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/redteam-active-critical?style=for-the-badge&logo=hackthebox&logoColor=white&color=red"/>
-  <img src="https://img.shields.io/badge/OSINT-mastermind-00ffaa?style=for-the-badge&logo=marketo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSINT-mastermind-8B0000?style=for-the-badge&logo=marketo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stego-hunter-black?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
