@@ -71,17 +71,18 @@
 
 ## 🗂️ Portfolio
 
-**6 repo** · **1 ⭐** · top stack: `Python`
+**7 repo** · **1 ⭐** · top stack: `Shell`, `Python`
 
 | # | Repo | Fokus | Stack | Aktivitas |
 |:--:|---|---|---|---|
-| 1 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Hacker lab & cyber playground by r3conxploit — OSINT, recon, red teaming, stego,… | OSINT & Recon | `—` | 🟢 aktif |
-| 2 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — intel notes, exploits, and stealth ops field guide. | OSINT & Recon | `—` | 🟢 aktif |
-| 3 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — OSINT toolkit: username enumeration and open-source recon utilities. Python. | OSINT & Recon | `Python` | 🟢 aktif |
-| 4 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Offensive security lab — adversary simulation, payloads, and red team notes. Aut… | Red Team | `—` | 🟢 aktif |
-| 5 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography operations lab — data concealment techniques, tooling, and detecti… | Steganography | `—` | 🟢 aktif |
-| 6 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal aesthetics & console tooling — a hacker-flavored CLI playground. | Terminal & Tooling | `—` | 🟢 aktif |
+| 1 | [`n8n-telegram-aws-migration`](https://github.com/r3conxploit/n8n-telegram-aws-migration) — Cloud engineering case study: migrate self-hosted n8n + Telegram bots from a lap… | Cloud & DevOps | `Shell` | 🟢 aktif |
+| 2 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Hacker lab & cyber playground by r3conxploit — OSINT, recon, red teaming, stego,… | OSINT & Recon | `—` | 🟢 aktif |
+| 3 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — intel notes, exploits, and stealth ops field guide. | OSINT & Recon | `—` | 🟢 aktif |
+| 4 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — OSINT toolkit: username enumeration and open-source recon utilities. Python. | OSINT & Recon | `Python` | 🟢 aktif |
+| 5 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Offensive security lab — adversary simulation, payloads, and red team notes. Aut… | Red Team | `—` | 🟢 aktif |
+| 6 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography operations lab — data concealment techniques, tooling, and detecti… | Steganography | `—` | 🟢 aktif |
+| 7 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal aesthetics & console tooling — a hacker-flavored CLI playground. | Terminal & Tooling | `—` | 🟢 aktif |
 
-<sub>Generated 2026-11-11 23:18 by asisten-github</sub>
+<sub>Generated 2026-11-11 23:43 by asisten-github</sub>
 
 <!-- PORTFOLIO:END -->
