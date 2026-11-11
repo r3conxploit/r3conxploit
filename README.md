@@ -67,4 +67,21 @@
 
 [![ProtonMail](https://img.shields.io/badge/email-r3conxploit@protonmail.com-8c00ff?style=flat-square&logo=protonmail)](mailto:r3conxploit@protonmail.com)
 
-                    
+<!-- PORTFOLIO:START -->
+
+## 🗂️ Portfolio
+
+**6 repo** · **1 ⭐** · top stack: `Python`
+
+| # | Repo | Fokus | Stack | Aktivitas |
+|:--:|---|---|---|---|
+| 1 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Hacker lab & cyber playground by r3conxploit — OSINT, recon, red teaming, stego,… | OSINT & Recon | `—` | 🟢 aktif |
+| 2 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — intel notes, exploits, and stealth ops field guide. | OSINT & Recon | `—` | 🟢 aktif |
+| 3 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — OSINT toolkit: username enumeration and open-source recon utilities. Python. | OSINT & Recon | `Python` | 🟢 aktif |
+| 4 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Offensive security lab — adversary simulation, payloads, and red team notes. Aut… | Red Team | `—` | 🟢 aktif |
+| 5 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography operations lab — data concealment techniques, tooling, and detecti… | Steganography | `—` | 🟢 aktif |
+| 6 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal aesthetics & console tooling — a hacker-flavored CLI playground. | Terminal & Tooling | `—` | 🟢 aktif |
+
+<sub>Generated 2026-11-11 23:18 by asisten-github</sub>
+
+<!-- PORTFOLIO:END -->
