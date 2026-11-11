@@ -1,88 +1,100 @@
-<!-- START DARK MODE PREVIEW HACK -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" style="filter: invert(100%)"/>
-</p>
-<pre>                       ██████╗ ██████╗  ██████╗ ██████╗ ███╗   ██╗██╗  ██╗██████╗ ██╗      ██████╗ ██╗████████╗                  
-                       ██╔══██╗╚════██╗██╔════╝██╔═══██╗████╗  ██║╚██╗██╔╝██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝                  
-                       ██████╔╝ █████╔╝██║     ██║   ██║██╔██╗ ██║ ╚███╔╝ ██████╔╝██║     ██║   ██║██║   ██║                     
-                       ██╔══██╗ ╚═══██╗██║     ██║   ██║██║╚██╗██║ ██╔██╗ ██╔═══╝ ██║     ██║   ██║██║   ██║                     
-                       ██║  ██║██████╔╝╚██████╗╚██████╔╝██║ ╚████║██╔╝ ██╗██║     ███████╗╚██████╔╝██║   ██║                     
-                       ╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝                    
-</pre>  
+# Ahmad Ramadhan
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F00FF&vCenter=true&width=500&lines=-----+Silently+Watching+%F0%9F%95%B6%EF%B8%8F+-----;-----+Always+Reconning+%F0%9F%92%BB+-----;-----+Stealth+is+Power+%F0%9F%90%8D+-----;-----+Digital+Ghost+%F0%9F%8E%AD+-----" />
+**Cloud & Automation Engineer** — I build and operate automation platforms on Linux, ship them to
+the cloud, and document the engineering behind them.
 
-</div>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/recon-in_progress-7f00ff?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redteam-active-critical?style=for-the-badge&logo=hackthebox&logoColor=white&color=red"/>
-  <img src="https://img.shields.io/badge/OSINT-mastermind-8B0000?style=for-the-badge&logo=marketo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stego-hunter-black?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/r3conxploit/r3conxploit/assets/your-custom-banner.gif" alt="r3conxploit banner"/>
-</p>
-
+[![Email](https://img.shields.io/badge/email-r3conxploit@protonmail.com-6D28D9?style=flat-square&logo=protonmail&logoColor=white)](mailto:r3conxploit@protonmail.com)
+[![Open to](https://img.shields.io/badge/open%20to-Cloud%20%2F%20DevOps%20%2F%20Platform%20roles-0B7285?style=flat-square)](#open-to)
+![Based in](https://img.shields.io/badge/based%20in-Indonesia-495057?style=flat-square)
 
 ---
 
-### 🕶️ About
+## About
 
-> **`r3conxploit`** is a digital persona and red team initiative focused on OSINT, steganography, recon automation, and hacker aesthetics.  
-> This profile serves as a personal lab, experiment space, and repository of crafted hacking content — built with precision, dark style, and stealth in mind.
+I work at the intersection of **systems, automation, and security**: self-hosted workflow
+platforms, Linux servers, containerised services, and AI-agent tooling. Most of what I publish is
+the part engineers usually skip — architecture decisions, runbooks, failure analysis, and
+verification output instead of screenshots.
 
----
+Currently focused on **Cloud Engineering** (AWS, infrastructure automation),
+**Linux systems administration**, and **agentic automation** (n8n, LLM-powered agents).
 
-### 🧰 Featured Repositories
-
-| Name | Description |
-|------|-------------|
-| [`osint-tools`](https://github.com/r3conxploit/osint-tools) | Custom OSINT scripts, recon automation, and data gathering tools. |
-| [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) | Payloads, bypass techniques, and exploitation practice. |
-| [`stego-lab`](https://github.com/r3conxploit/stego-lab) | A playground for digital hiding: steganography techniques and tools. |
-| [`darkwiki`](https://github.com/r3conxploit/darkwiki) | Private markdown-based hacking wiki with dark aesthetics. |
-| [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) | Custom terminal themes, ASCII banners, and configs. |
-
----
-
-### 🎯 Focus Areas
-
-- 🕵️‍♂️ Open Source Intelligence (OSINT)
-- 💣 Red Teaming & Bypasses
-- 🧙‍♂️ Steganography Experiments
-- 🧠 Recon Automation
-- 🖥️ Hacker UI/UX & Terminal Styling
+```text
+Cloud Engineering   ·  AWS EC2/EBS/SG, Cloudflare Tunnel, cost-aware architecture
+Linux & Ops         ·  Ubuntu, systemd, Docker, bash automation, log/disk budgeting
+Automation          ·  n8n workflows, Telegram bots, deterministic parsers, Google Sheets API
+Cybersecurity       ·  hardening, least privilege, secret management, authorized lab work
+AI Agents           ·  agent orchestration, tool use, prompt/workflow design
+```
 
 ---
 
-<p align="center">
-  <i>“We do not just look. We observe. We exploit.”</i><br>
-  <code>~ r3conxploit</code>
-</p>
+## Featured project
 
-[![ProtonMail](https://img.shields.io/badge/email-r3conxploit@protonmail.com-8c00ff?style=flat-square&logo=protonmail)](mailto:r3conxploit@protonmail.com)
+### [n8n-telegram-aws-migration](https://github.com/r3conxploit/n8n-telegram-aws-migration)
+
+Moved a self-hosted **n8n instance + two Telegram bots** off a Windows laptop onto
+**AWS EC2 `t3.micro` (ap-southeast-2)** — Docker-pinned runtime, SQLite state restored into a
+named volume, ingress via **Cloudflare Tunnel** so the host exposes **zero application ports**
+(no ALB, no inbound 443, no TLS certificates on the instance).
+
+| | |
+|---|---|
+| **Migrated state** | 20 workflows · 7 credentials · 104 executions (24 MB archive) |
+| **Verified** | public `/healthz` 200 · `cloudflared` active · survive reboot without intervention |
+| **Cost** | ≈ $13/month all-in (EC2 + EBS + free tunnel) |
+| **Delivered** | 6 docs, 8 ADRs, 5 idempotent scripts, 10-case troubleshooting catalogue |
+| **Hardest part** | disk exhaustion (8 GB → 30 GB), 502-vs-200 ingress isolation, SQLite consistency + encryption key |
+
+📄 [`README`](https://github.com/r3conxploit/n8n-telegram-aws-migration) ·
+🏛️ [`docs/decisions.md`](https://github.com/r3conxploit/n8n-telegram-aws-migration/blob/main/docs/decisions.md) ·
+🧯 [`docs/troubleshooting.md`](https://github.com/r3conxploit/n8n-telegram-aws-migration/blob/main/docs/troubleshooting.md)
+
+---
+
+## Other repositories
+
+| Repository | What it is |
+|---|---|
+| [`osint-tools`](https://github.com/r3conxploit/osint-tools) | Python utilities for open-source intelligence: username enumeration and data gathering, for authorized research. |
+| [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) | Adversary-simulation notes and lab exercises — scoped to my own environment, written for detection and hardening. |
+| [`stego-lab`](https://github.com/r3conxploit/stego-lab) | Steganography research: concealment techniques, tooling, and how to detect them. |
+| [`darkwiki`](https://github.com/r3conxploit/darkwiki) | Markdown knowledge base — security notes, field guides, and operational references. |
+| [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) | Terminal configuration and CLI tooling: shell ergonomics, prompts, dotfiles. |
+
+> Security work here is **defensive and lab-scoped**: hardening, detection, and documentation.
+> Nothing is intended for use against systems without written authorization.
+
+---
+
+## Toolkit
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logo=systemd&logoColor=white)
+
+---
+
+## Open to
+
+Cloud Engineering · DevOps / Platform · Linux Systems Administration · Automation Engineering —
+roles where reliability, cost awareness, and clean documentation actually matter.
+
+📬 **r3conxploit@protonmail.com**
+
+---
 
 <!-- PORTFOLIO:START -->
 
 ## 🗂️ Portfolio
 
-**7 repo** · **1 ⭐** · top stack: `Shell`, `Python`
-
-| # | Repo | Fokus | Stack | Aktivitas |
-|:--:|---|---|---|---|
-| 1 | [`n8n-telegram-aws-migration`](https://github.com/r3conxploit/n8n-telegram-aws-migration) — Cloud engineering case study: migrate self-hosted n8n + Telegram bots from a lap… | Cloud & DevOps | `Shell` | 🟢 aktif |
-| 2 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Hacker lab & cyber playground by r3conxploit — OSINT, recon, red teaming, stego,… | OSINT & Recon | `—` | 🟢 aktif |
-| 3 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — intel notes, exploits, and stealth ops field guide. | OSINT & Recon | `—` | 🟢 aktif |
-| 4 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — OSINT toolkit: username enumeration and open-source recon utilities. Python. | OSINT & Recon | `Python` | 🟢 aktif |
-| 5 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Offensive security lab — adversary simulation, payloads, and red team notes. Aut… | Red Team | `—` | 🟢 aktif |
-| 6 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography operations lab — data concealment techniques, tooling, and detecti… | Steganography | `—` | 🟢 aktif |
-| 7 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal aesthetics & console tooling — a hacker-flavored CLI playground. | Terminal & Tooling | `—` | 🟢 aktif |
-
-<sub>Generated 2026-11-11 23:43 by asisten-github</sub>
+_Di-generate otomatis oleh `portfolio-sync.py` — daftar repo, fokus, stack, dan status aktivitas._
 
 <!-- PORTFOLIO:END -->
