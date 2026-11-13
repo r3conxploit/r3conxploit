@@ -52,6 +52,31 @@ named volume, ingress via **Cloudflare Tunnel** so the host exposes **zero appli
 
 ---
 
+## Use cases & problem solving
+
+Six operational cases from running this stack for real — each one documented as
+**problem → diagnosis → fix → verification output**, not as a tutorial.
+
+| # | Case | Headline result |
+|:--:|---|---|
+| 1 | [Recovering a full system drive with zero reinstalls](docs/use-cases.md#1-recovering-a-full-system-drive-with-zero-reinstalls) | 9.9 GB → **33 GB free** via junctions, no reinstall, no path changes |
+| 2 | [Self-hosted multi-provider AI gateway with cost control](docs/use-cases.md#2-self-hosted-multi-provider-ai-gateway-with-cost-control) | Loopback-only routing across free/paid tiers, machine-scoped admin token, no stored passwords |
+| 3 | [GitHub CLI auth on a Windows/MSYS host](docs/use-cases.md#3-github-cli-auth-on-a-windowsmsys-host) | Non-PTY device flow that actually completes; scope drift caught before a failed push |
+| 4 | [Provisioning an agent skill library under rate limits](docs/use-cases.md#4-provisioning-an-agent-skill-library-under-rate-limits) | 100+ skills installed with **zero** authenticated API calls (60 req/h cap bypassed) |
+| 5 | [n8n + Telegram bots: laptop → AWS EC2](docs/use-cases.md#5-n8n--telegram-bots-laptop--aws-ec2) | Zero open app ports, state restored, survives reboot, ≈ $13/month |
+| 6 | [Delegation that reported success and shipped nothing](docs/use-cases.md#6-delegation-that-reported-success-and-shipped-nothing) | A "completed" sub-agent with 0 artifacts → verification gates on every delegation |
+
+```text
+Storage & Host Ops   ·  junction-based app-data migration, read-only attribute pitfalls, disk budgeting
+AI / Gateway Infra   ·  multi-provider routing chains, tiered model combos, measured token savings
+Cloud Delivery       ·  EC2 sizing, Cloudflare Tunnel ingress, idempotent scripts, ADR trail
+Agent Operations     ·  skill library provisioning, credential handling, delegation verification
+```
+
+📄 Full write-up → [`docs/use-cases.md`](docs/use-cases.md)
+
+---
+
 ## Other repositories
 
 | Repository | What it is |
