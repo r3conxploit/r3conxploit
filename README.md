@@ -120,18 +120,18 @@ roles where reliability, cost awareness, and clean documentation actually matter
 
 ## 🗂️ Portfolio
 
-**7 repo** · **1 ⭐** · top stack: `Python`, `Shell`
+**7 repo** · **1 ⭐** · top stack: `Shell`, `Python`
 
 | # | Repo | Fokus | Stack | Aktivitas |
 |:--:|---|---|---|---|
-| 1 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Profile repository — Cloud & Automation Engineer: Linux systems, AWS infrastruct… | Cloud & DevOps | `—` | 🟢 aktif |
-| 2 | [`n8n-telegram-aws-migration`](https://github.com/r3conxploit/n8n-telegram-aws-migration) — Cloud engineering case study: migrate self-hosted n8n + Telegram bots from a lap… | Cloud & DevOps | `Shell` | 🟢 aktif |
-| 3 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — Python utilities for open-source intelligence: username enumeration and authoriz… | OSINT & Recon | `Python` | 🟢 aktif |
-| 4 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — security notes, field guides, and operational referenc… | OSINT & Recon | `—` | 🟢 aktif |
-| 5 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Adversary-simulation lab notes and exercises — detection, hardening, and defensi… | Red Team | `—` | 🟢 aktif |
-| 6 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography research: concealment techniques, tooling, and detection methods. | Steganography | `—` | 🟢 aktif |
-| 7 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal configuration and CLI tooling — shell ergonomics, prompts, and dotfiles… | Terminal & Tooling | `—` | 🟢 aktif |
+| 1 | [`darkwiki`](https://github.com/r3conxploit/darkwiki) — Markdown knowledge base — security notes, field guides, and operational referenc… | OSINT & Recon | `—` | 🟢 aktif |
+| 2 | [`osint-tools`](https://github.com/r3conxploit/osint-tools) — Python utilities for open-source intelligence: username enumeration and authoriz… | OSINT & Recon | `Python` | 🟢 aktif |
+| 3 | [`n8n-telegram-aws-migration`](https://github.com/r3conxploit/n8n-telegram-aws-migration) — Cloud engineering case study: migrate self-hosted n8n + Telegram bots from a lap… | Red Team | `Shell` | 🟢 aktif |
+| 4 | [`redteam-lab`](https://github.com/r3conxploit/redteam-lab) — Adversary-simulation lab notes and exercises — detection, hardening, and defensi… | Red Team | `—` | 🟢 aktif |
+| 5 | [`stego-lab`](https://github.com/r3conxploit/stego-lab) — Steganography research: concealment techniques, tooling, and detection methods. | Steganography | `—` | 🟢 aktif |
+| 6 | [`r3x-terminal`](https://github.com/r3conxploit/r3x-terminal) — Terminal configuration and CLI tooling — shell ergonomics, prompts, and dotfiles… | Terminal & Tooling | `—` | 🟢 aktif |
+| 7 | [`r3conxploit`](https://github.com/r3conxploit/r3conxploit) — Profile repository — Cloud & Automation Engineer: Linux systems, AWS infrastruct… | Lab & Playground | `—` | 🟢 aktif |
 
-<sub>Generated 2026-11-11 23:44 by asisten-github</sub>
+<sub>Generated 2026-11-15 09:00 by asisten-github</sub>
 
 <!-- PORTFOLIO:END -->
